@@ -6,7 +6,7 @@
 
 </div>
 
---
+---
 ## 🧭 Padrões de desenvolvimento e conceitos
 
 ![img.png](Images/img.png)
